@@ -1,0 +1,4 @@
+server: sql7.freemysqlhosting.net
+username: sql7266319
+password: p3uXSaWX48
+database-name: sql7266319
